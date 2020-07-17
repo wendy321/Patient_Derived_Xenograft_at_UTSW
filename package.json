@@ -27,7 +27,7 @@
     "gulp-open": "^1.0.0",
     "gulp-postcss": "^7.0.1",
     "jquery": "^2.1.4",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "object-assign": "^4.1.1",
     "pump": "^3.0.0",
     "react": "^0.13.3",
