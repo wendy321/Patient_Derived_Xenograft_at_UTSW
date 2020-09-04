@@ -30,7 +30,7 @@
     "lodash": "^4.17.10",
     "object-assign": "^4.1.1",
     "pump": "^3.0.0",
-    "react": "^0.13.3",
+    "react": "^0.14.0",
     "react-highcharts": "^3.0.0",
     "react-router": "^0.13.3",
     "reactify": "^1.1.1",
